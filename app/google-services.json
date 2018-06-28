@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671996812451",
+    "firebase_url": "https://fir-db-cd7f4.firebaseio.com",
+    "project_id": "fir-db-cd7f4",
+    "storage_bucket": "fir-db-cd7f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671996812451:android:8295c2a73238ad77",
+        "android_client_info": {
+          "package_name": "com.sneha.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671996812451-6p8nhr53n38erq4tg4mm0c63ajjufua0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sneha.firebasedb",
+            "certificate_hash": "63be6ad1632b9fad71255ecb5fe916dfb716a851"
+          }
+        },
+        {
+          "client_id": "671996812451-gec2ijgjjf7n5tr58ev623rapfr5n9b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxZWqbwSW45ZoQzC7YO8EAcTJvtMq764"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671996812451-gec2ijgjjf7n5tr58ev623rapfr5n9b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
